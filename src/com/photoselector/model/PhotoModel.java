@@ -93,4 +93,9 @@ public class PhotoModel implements Serializable {
 		return true;
 	}
 
+	@Override
+	public String toString() {
+		return "PhotoModel [originalPath=" + originalPath + ", isChecked=" + isChecked + "]";
+	}
+
 }

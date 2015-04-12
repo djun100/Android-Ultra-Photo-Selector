@@ -10,5 +10,7 @@
     <string name="back">Back</string>
     <string name="taking_pictures">Taking Pictures</string>
     <string name="max_img_limit_reached">Cannot select more than %d images</string>
+    <string name="title_activity_activity_test">ActivityTest</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>
